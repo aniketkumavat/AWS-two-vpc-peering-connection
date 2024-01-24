@@ -1,4 +1,5 @@
-# two-vpc-peering-connection
+# Two-vpc-peering-connection
+
 
 step 1 - create vpc1 -- create subnet -- create internet gateway -- create route table(in routes add inetnet traffic through igw )
 
