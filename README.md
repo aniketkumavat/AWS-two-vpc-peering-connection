@@ -15,3 +15,6 @@ step 6 - in server1 and server2 ec2 instace edit security group inbound rules --
 step 7 - In route table edit routes and in vpc1-rt, add vpc2 traffic peering connection also in vpc2-rt , add vpc1 traffic(CIDR).
 
 step 8 - check they pinging to each other or not
+
+
+For more information please review this pdf - https://docs.google.com/document/d/1zD0HAiCwgB9Q_7GnT3OXlI8LFBfocvHRn5z4Bx9qA7k/edit?usp=sharing
